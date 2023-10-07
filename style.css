@@ -1,0 +1,419 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+    font-family: 'Raleway', sans-serif;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+    overflow-x: hidden;
+   
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.b{
+    width: 100%;
+    z-index: -3;
+    background: no-repeat center center;
+    background-size: cover;
+    
+
+}
+
+
+.selector{
+
+    position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 4rem;   
+}
+
+.selector2{
+
+    position: absolute;
+    top: 12200px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;   
+}
+
+.l1{
+    width: 600px;
+    height: 500px;
+    position: absolute;
+    top: 800px;
+    left: 10px;
+}
+
+.cp1{
+    width: 50%;
+    position: absolute;
+    top: 650px;
+    right: 20px;
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+
+/* Bloque 2*/
+
+.l2{
+    width: 600px;
+    height: 600px;
+    position: absolute;
+    top: 1200px;
+    right: 40px;
+}
+
+
+.cp2{
+    width: 50%;
+    position: absolute;
+    top: 1300px;
+    left: 50px;   
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+/* Bloque 3 */
+
+.l3{
+    width: 600px;
+    height: 500px;
+    position: absolute;
+    top: 2000px;
+    left: 10px;
+}
+
+.cp3{
+    width: 50%;
+    position: absolute;
+    top: 2050px;
+    right: 50px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+
+/* cbloque 4 */
+
+
+.l4{
+    width: 400px;
+    height: 550px;
+    position: absolute;
+    top: 2650px;
+    right: 100px;
+}
+
+
+.cp4{
+    width: 50%;
+    position: absolute;
+    top: 2750px;
+    left: 100px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+
+/* cbloque 5 */
+
+
+.l5{
+    width: 350px;
+    height: 500px;
+    position: absolute;
+    top: 3070px;
+    left: 50px;
+    opacity: 0.5;
+}
+
+
+.cp5{
+    width: 50%;
+    position: absolute;
+    top: 3100px;
+    right: 100px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+
+
+/* cbloque 6*/
+
+
+.l6{
+    width: 650px;
+    height: 600px;
+    position: absolute;
+    top: 3650px;
+    right: -50px;
+}
+
+
+.cp6{
+    width: 50%;
+    position: absolute;
+    top: 3750px;
+    left: 100px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+/* cbloque 7*/
+
+
+.l7{
+    width: 650px;
+    height: 450px;
+    position: absolute;
+    top: 4350px;
+    left: -50px;
+}
+
+
+.cp7{
+    width: 50%;
+    position: absolute;
+    top: 4400px;
+    right: 50px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+/* cbloque 8*/
+
+
+.l8{
+    width: 650px;
+    height: 450px;
+    position: absolute;
+    top: 4950px;
+    right: 50px;
+}
+
+
+.cp8{
+    width: 50%;
+    position: absolute;
+    top: 4900px;
+    left: 50px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+/* cbloque 9*/
+
+
+.l9{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top: 5400px;
+    left: 100px;
+}
+
+
+.cp9{
+    width: 50%;
+    position: absolute;
+    top: 5400px;
+    right: 50px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+/* cbloque 10*/
+
+
+.l10{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: 6000px;
+    right: 10px;
+}
+
+
+.cp10{
+    width: 50%;
+    position: absolute;
+    top: 6000px;
+    left: 50px;
+    
+    
+    font-weight: 300;
+    margin: auto;
+    
+}
+
+/* cbloque 11*/
+
+
+.l11{
+    width: 650px;
+    height: 450px;
+    position: absolute;
+    top: 6500px;
+    left: 50px;
+}
+
+
+.cp11{
+    width: 50%;
+    position: absolute;
+    top: 6500px;
+    right: 50px;
+    font-weight: 300;
+    margin: auto;
+  
+}
+
+/* cbloque 12*/
+
+
+.l12{
+    width: 750px;
+    height: 550px;
+    position: absolute;
+    top: 7050px;
+    right: -50px;
+}
+
+
+.cp12{
+    width: 50%;
+    position: absolute;
+    top: 7150px;
+    left: 100px;
+    font-weight: 300;
+    margin: auto;
+    margin-bottom: 0; /* Esto eliminará el espacio en blanco en la parte inferior de la sección */
+  
+}
+
+
+/* cbloque 13*/
+
+
+.l13{
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    top: 7850px;
+    left: 50px;
+}
+
+
+.cp13{
+    width: 50%;
+    position: absolute;
+    top: 7850px;
+    right: 50px;
+    font-weight: 300;
+    margin: auto;
+    margin-bottom: 0; /* Esto eliminará el espacio en blanco en la parte inferior de la sección */
+  
+}
+
+.p1{
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+.h1{
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+.btn{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 1000;
+}
+.b13{
+    margin-top: -10px;
+}
+
+.b14{
+    position: absolute;
+    top: 8350px;
+    width: 100%;
+
+    z-index: 100000;
+}
+
+
+
